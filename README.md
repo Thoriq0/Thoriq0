@@ -1,70 +1,64 @@
-Hi, I'm Thoriq 👋
+# Hi there 👋 I'm Thoriq
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Fullstack_Developer-black%3Fstyle%3Dflat-square%26logo%3Dreact" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Indonesia-brightgreen%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Open_for_Collaboration-blue%3Fstyle%3Dflat-square" />
-</p>
+I'm a web developer who enjoys building web applications and experimenting with different technologies.  
+Most of my work revolves around backend systems, full-stack apps, and personal developer tools.
 
-I'm a Fullstack Web Developer from Indonesia who loves building high-performance applications. I enjoy bridging the gap between complex backend logic and smooth frontend experiences.
+---
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
-Frontend & Styling
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
 
-Backend & Database
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
 
-📌 Featured Projects
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-Project
+---
 
-Description
+## 📌 Featured Projects
 
-Tech Stack
+- **OwnBlog**  
+  Personal blog platform built with Laravel & Livewire.
 
-OwnBlog
+- **OwnJournal**  
+  Personal journaling web app built with Next.js, Prisma, and PostgreSQL.
 
-A minimalist personal blog platform with SEO optimization.
+- **Live Chat App**  
+  Simple real-time chat application using JavaScript.
 
-Laravel, Tailwind
+- **SHIBA Project**  
+  Daily disaster information system.
 
-OwnJournal
+---
 
-A secure digital space for daily thoughts and tracking progress.
+## 📊 GitHub Stats
 
-Next.js, Prisma
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thoriq0&show_icons=true&theme=tokyonight)
 
-Live-Chat
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoriq0&layout=compact&theme=tokyonight)
 
-Real-time communication app with instant message delivery.
+---
 
-Laravel, WebSockets
+## 🌱 Currently Exploring
 
-📊 GitHub Activity
+- System design
+- Docker-based development environments
+- Full-stack applications with Next.js
 
-<p align="center">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DThoriq0%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DThoriq0%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-</p>
+---
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DThoriq0%26theme%3Dtokyonight%26hide_border%3Dtrue" width="100%" />
-</p>
+## 📫 Connect
 
-📫 Let's Connect!
+- GitHub: https://github.com/Thoriq0
 
-<p align="left">
-<a href="mailto:email-lo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://your-portfolio.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-000000%3Fstyle%3Dfor-the-badge%26logo%3Dfirefox-browser%26logoColor%3Dwhite" />
-</a>
-<a href="https://github.com/Thoriq0">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</p>
+---
 
-<p align="center">
-<i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+⭐ I enjoy building personal projects and learning new technologies along the way.
