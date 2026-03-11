@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="YOUR_GIF_LINK_HERE" width="220" />
+</p>
+
+<p align="center">
   Web Developer from Indonesia 🇮🇩 <br>
   Building web applications and exploring modern technologies.
 </p>
@@ -69,11 +73,29 @@
 ## 🌐 Website
 
 - 📝 Blog: https://thorz.my.id
-- 💼 Portfolio: https://your-portfolio-link.com
+- 💼 Portfolio: 
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: your@email.com
+- 📧 Email: thoriq@thorz.my.id
 - 🐙 GitHub: https://github.com/Thoriq0
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  ⭐ Always learning, building, and improving.
+</p>
