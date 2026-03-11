@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Full+Stack+Developer;Laravel+%7C+Next.js+%7C+React;PHP+%7C+Vue+%7C+TypeScript&center=true&width=560&height=45">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="YOUR_GIF_LINK_HERE" width="220" />
-</p>
+</p> -->
 
 <p align="center">
   Web Developer from Indonesia 🇮🇩 <br>
@@ -73,20 +73,14 @@
 ## 🌐 Website
 
 - 📝 Blog: https://thorz.my.id
-- 💼 Portfolio: 
+- 💼 Portfolio: https://your-portfolio-link.com
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: thoriq@thorz.my.id
+- 📧 Email: your@email.com
 - 🐙 GitHub: https://github.com/Thoriq0
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
 
 ---
 
