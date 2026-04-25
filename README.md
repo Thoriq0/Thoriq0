@@ -14,22 +14,20 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:thoriq.ahmad1301@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail">
   </a>
   <a href="https://thorz.my.id">
     <img src="https://img.shields.io/badge/Blog-thorz.my.id-blue?style=flat-square&logo=google-chrome">
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=vercel">
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=flat-square&logo=vercel" alt="Portfolio coming soon">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Web Developer with **1+ year of experience**
+- 💻 Building web applications with **PHP** and **JavaScript** ecosystems
 - ⚙️ Focused on **backend** and **full-stack development**
 - 🚀 Building web apps with modern JavaScript and PHP ecosystems
 - 🐧 Comfortable working with **Linux**, **Docker**, and developer tools
@@ -39,7 +37,9 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,js,ts,react,nextjs,vue,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP and Laravel" />
+  <img src="./assets/codeigniter-dark.svg" alt="CodeIgniter" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,docker,linux,git" alt="JavaScript, TypeScript, React, Next.js, Vue, Docker, Linux, and Git" />
 </p>
 
 ---
@@ -49,14 +49,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thoriq0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoriq0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thoriq0&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -73,13 +65,13 @@
 ## 🌐 Website
 
 - 📝 Blog: https://thorz.my.id
-- 💼 Portfolio: https://your-portfolio-link.com
+- 💼 Portfolio: coming soon
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: your@email.com
+- 📧 Email: thoriq.ahmad1301@gmail.com
 - 🐙 GitHub: https://github.com/Thoriq0
 
 ---
