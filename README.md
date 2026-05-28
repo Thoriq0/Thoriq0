@@ -17,7 +17,7 @@
   <a href="mailto:thoriq.ahmad1301@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail">
   </a>
-  <a href="https://thorz.my.id">
+  <a href="https://journal.thorz.my.id">
     <img src="https://img.shields.io/badge/Blog-thorz.my.id-blue?style=flat-square&logo=google-chrome">
   </a>
   <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=flat-square&logo=vercel" alt="Portfolio coming soon">
@@ -64,7 +64,7 @@
 
 ## 🌐 Website
 
-- 📝 Blog: https://thorz.my.id
+- 📝 Blog: https://journal.thorz.my.id
 - 💼 Portfolio: coming soon
 
 ---
