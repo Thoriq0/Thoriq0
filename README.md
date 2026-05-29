@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Blog-journal.thorz.my.id-blue?style=flat-square&logo=google-chrome">
   </a>
   <a hrfe="https://portfolio.thorz.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-lightgrey?style=flat-square&logo=vercel" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-portfolio.thorz.my.id-lightgrey?style=flat-square&logo=vercel" alt="Portfolio">
   </a>
 </p>
 
